@@ -1,4 +1,4 @@
-image:: http://i1208.photobucket.com/albums/cc369/Sboubi/valencias_zpsav6ykilb.png
+.. image:: http://i1208.photobucket.com/albums/cc369/Sboubi/valencias_zpsav6ykilb.png
 
 ++++++
 
