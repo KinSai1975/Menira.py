@@ -5,7 +5,7 @@ Pylons
    :alt: Build Status
    :target: https://secure.travis-ci.org/Pylons/pylons
 
-Pylons is a rapid web application development framework.
+Menira.py is a rapid web application development framework.
 
 .. note::
 
